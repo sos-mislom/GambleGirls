@@ -17,3 +17,6 @@ _(депрекейтед, не хватило бюджета на катсцен
 
 Прототипировал на либросе, можно [ознакомиться](https://github.com/sos-mislom/RhythmAnalyserOnLibrosa/tree/main)
 
+# Itch.Io 
+[Релиз](https://sos-mislom.itch.io/gamble-girls)
+
